@@ -1,23 +1,23 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\esteb\\OneDrive\\Escritorio\\VisualStudioProjects\\InventaryBlazorNC3\\InventaryBlazorNC3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\InventaryBlazorNC3.bundle.scp.css",
+      "Id": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Cursos\\Blazor-inventory-SSR\\InventaryBlazorNC3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\InventaryBlazorNC3.bundle.scp.css",
       "PackagePath": "staticwebassets\\InventaryBlazorNC3.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\esteb\\OneDrive\\Escritorio\\VisualStudioProjects\\InventaryBlazorNC3\\InventaryBlazorNC3\\wwwroot\\app.css",
+      "Id": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Cursos\\Blazor-inventory-SSR\\InventaryBlazorNC3\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "C:\\Users\\esteb\\OneDrive\\Escritorio\\VisualStudioProjects\\InventaryBlazorNC3\\InventaryBlazorNC3\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Cursos\\Blazor-inventory-SSR\\InventaryBlazorNC3\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\esteb\\OneDrive\\Escritorio\\VisualStudioProjects\\InventaryBlazorNC3\\InventaryBlazorNC3\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Cursos\\Blazor-inventory-SSR\\InventaryBlazorNC3\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\esteb\\OneDrive\\Escritorio\\VisualStudioProjects\\InventaryBlazorNC3\\InventaryBlazorNC3\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Cursos\\Blazor-inventory-SSR\\InventaryBlazorNC3\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {

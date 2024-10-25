@@ -19,7 +19,7 @@ namespace DataAccess
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Server=ALVARENGA144-LA; Database=InventoryDb; Integrated Security=True;TrustServerCertificate=True");
+                optionsBuilder.UseSqlServer("Server=EALVARENGA; Database=InventoryDb; Integrated Security=True;TrustServerCertificate=True");
             }
         }
 

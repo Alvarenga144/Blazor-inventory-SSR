@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/G0CpMLFHr2kxN9b9CVeSlu2Hpv5oELJXfQyUIvkMeM/IA+SUWXmyMpGFGc2veT8wCdP1kZv8hbqSDVuICjCmg==",
+  "dgSpecHash": "iuBrddVMM9A=",
   "success": true,
-  "projectFilePath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\VisualStudioProjects\\InventaryBlazorNC3\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Cursos\\Blazor-inventory-SSR\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\esteb\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\esteb\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

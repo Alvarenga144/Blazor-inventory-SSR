@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\esteb\\OneDrive\\Escritorio\\VisualStudioProjects\\InventaryBlazorNC3\\DataAccess\\DataAccess.csproj": {}
+    "C:\\Users\\esteb\\OneDrive\\Escritorio\\Cursos\\Blazor-inventory-SSR\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\esteb\\OneDrive\\Escritorio\\VisualStudioProjects\\InventaryBlazorNC3\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\esteb\\OneDrive\\Escritorio\\Cursos\\Blazor-inventory-SSR\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\esteb\\OneDrive\\Escritorio\\VisualStudioProjects\\InventaryBlazorNC3\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Cursos\\Blazor-inventory-SSR\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\VisualStudioProjects\\InventaryBlazorNC3\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Cursos\\Blazor-inventory-SSR\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\esteb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\VisualStudioProjects\\InventaryBlazorNC3\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Cursos\\Blazor-inventory-SSR\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\esteb\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -33,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\esteb\\OneDrive\\Escritorio\\VisualStudioProjects\\InventaryBlazorNC3\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\VisualStudioProjects\\InventaryBlazorNC3\\Entities\\Entities.csproj"
+              "C:\\Users\\esteb\\OneDrive\\Escritorio\\Cursos\\Blazor-inventory-SSR\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Cursos\\Blazor-inventory-SSR\\Entities\\Entities.csproj"
               }
             }
           }
@@ -85,25 +81,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\esteb\\OneDrive\\Escritorio\\VisualStudioProjects\\InventaryBlazorNC3\\Entities\\Entities.csproj": {
+    "C:\\Users\\esteb\\OneDrive\\Escritorio\\Cursos\\Blazor-inventory-SSR\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\esteb\\OneDrive\\Escritorio\\VisualStudioProjects\\InventaryBlazorNC3\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Cursos\\Blazor-inventory-SSR\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\VisualStudioProjects\\InventaryBlazorNC3\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Cursos\\Blazor-inventory-SSR\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\esteb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\VisualStudioProjects\\InventaryBlazorNC3\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Cursos\\Blazor-inventory-SSR\\Entities\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\esteb\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -150,7 +142,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

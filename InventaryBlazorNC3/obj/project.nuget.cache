@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BruFo1i98ney6Jj+7qXviXCEo+F7L1VhCD6gObz1h4E3CZzgGus4z2vxNgb8c6/nSyQnGqfW+MK3ib+UhT0Ktg==",
+  "dgSpecHash": "ged9ACwku7s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\VisualStudioProjects\\InventaryBlazorNC3\\InventaryBlazorNC3\\InventaryBlazorNC3.csproj",
+  "projectFilePath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Cursos\\Blazor-inventory-SSR\\InventaryBlazorNC3\\InventaryBlazorNC3.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
