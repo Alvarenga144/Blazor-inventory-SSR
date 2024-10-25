@@ -881,20 +881,6 @@
           "lib/netcoreapp2.1/_._": {}
         }
       },
-      "Business/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "DataAccess": "1.0.0",
-          "Entities": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Business.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Business.dll": {}
-        }
-      },
       "DataAccess/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -2554,11 +2540,6 @@
         "version.txt"
       ]
     },
-    "Business/1.0.0": {
-      "type": "project",
-      "path": "../Business/Business.csproj",
-      "msbuildProject": "../Business/Business.csproj"
-    },
     "DataAccess/1.0.0": {
       "type": "project",
       "path": "../DataAccess/DataAccess.csproj",
@@ -2572,7 +2553,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Business >= 1.0.0",
+      "DataAccess >= 1.0.0",
       "Entities >= 1.0.0"
     ]
   },
@@ -2582,11 +2563,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Cursos\\Blazor-inventory-SSR\\InventaryBlazorNC3\\InventaryBlazorNC3.csproj",
-      "projectName": "InventaryBlazorNC3",
-      "projectPath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Cursos\\Blazor-inventory-SSR\\InventaryBlazorNC3\\InventaryBlazorNC3.csproj",
+      "projectUniqueName": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Cursos\\Blazor-inventory-SSR\\Business\\Business.csproj",
+      "projectName": "Business",
+      "projectPath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Cursos\\Blazor-inventory-SSR\\Business\\Business.csproj",
       "packagesPath": "C:\\Users\\esteb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Cursos\\Blazor-inventory-SSR\\InventaryBlazorNC3\\obj\\",
+      "outputPath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Cursos\\Blazor-inventory-SSR\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\esteb\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2604,8 +2585,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\esteb\\OneDrive\\Escritorio\\Cursos\\Blazor-inventory-SSR\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Cursos\\Blazor-inventory-SSR\\Business\\Business.csproj"
+            "C:\\Users\\esteb\\OneDrive\\Escritorio\\Cursos\\Blazor-inventory-SSR\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Cursos\\Blazor-inventory-SSR\\DataAccess\\DataAccess.csproj"
             },
             "C:\\Users\\esteb\\OneDrive\\Escritorio\\Cursos\\Blazor-inventory-SSR\\Entities\\Entities.csproj": {
               "projectPath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Cursos\\Blazor-inventory-SSR\\Entities\\Entities.csproj"
@@ -2639,9 +2620,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }

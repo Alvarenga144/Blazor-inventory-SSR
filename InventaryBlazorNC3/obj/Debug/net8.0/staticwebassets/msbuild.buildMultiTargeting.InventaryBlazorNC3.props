@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\InventaryBlazorNC3.props" />
-</Project>

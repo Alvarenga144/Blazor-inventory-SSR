@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Cursos\\Blazor-inventory-SSR\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D58E0B5B-C766-41DD-898A-F084E0A376A5}|DataAccess\\DataAccess.csproj|c:\\users\\esteb\\onedrive\\escritorio\\cursos\\blazor-inventory-ssr\\dataaccess\\inventarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D58E0B5B-C766-41DD-898A-F084E0A376A5}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\inventarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F8091A7C-81A4-42E1-9024-5D5236428D2D}|Business\\Business.csproj|c:\\users\\esteb\\onedrive\\escritorio\\cursos\\blazor-inventory-ssr\\business\\icrudservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8091A7C-81A4-42E1-9024-5D5236428D2D}|Business\\Business.csproj|solutionrelative:business\\icrudservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8091A7C-81A4-42E1-9024-5D5236428D2D}|Business\\Business.csproj|c:\\users\\esteb\\onedrive\\escritorio\\cursos\\blazor-inventory-ssr\\business\\b_inputoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8091A7C-81A4-42E1-9024-5D5236428D2D}|Business\\Business.csproj|solutionrelative:business\\b_inputoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8091A7C-81A4-42E1-9024-5D5236428D2D}|Business\\Business.csproj|c:\\users\\esteb\\onedrive\\escritorio\\cursos\\blazor-inventory-ssr\\business\\b_storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8091A7C-81A4-42E1-9024-5D5236428D2D}|Business\\Business.csproj|solutionrelative:business\\b_storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8091A7C-81A4-42E1-9024-5D5236428D2D}|Business\\Business.csproj|c:\\users\\esteb\\onedrive\\escritorio\\cursos\\blazor-inventory-ssr\\business\\b_warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8091A7C-81A4-42E1-9024-5D5236428D2D}|Business\\Business.csproj|solutionrelative:business\\b_warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8091A7C-81A4-42E1-9024-5D5236428D2D}|Business\\Business.csproj|c:\\users\\esteb\\onedrive\\escritorio\\cursos\\blazor-inventory-ssr\\business\\b_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8091A7C-81A4-42E1-9024-5D5236428D2D}|Business\\Business.csproj|solutionrelative:business\\b_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8091A7C-81A4-42E1-9024-5D5236428D2D}|Business\\Business.csproj|c:\\users\\esteb\\onedrive\\escritorio\\cursos\\blazor-inventory-ssr\\business\\b_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8091A7C-81A4-42E1-9024-5D5236428D2D}|Business\\Business.csproj|solutionrelative:business\\b_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,21 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "InventaryContext.cs",
-              "DocumentMoniker": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Cursos\\Blazor-inventory-SSR\\DataAccess\\InventaryContext.cs",
-              "RelativeDocumentMoniker": "DataAccess\\InventaryContext.cs",
-              "ToolTip": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Cursos\\Blazor-inventory-SSR\\DataAccess\\InventaryContext.cs",
-              "RelativeToolTip": "DataAccess\\InventaryContext.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAA9wBkAAABKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T06:54:19.685Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
@@ -36,6 +43,84 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICRUDServices.cs",
+              "DocumentMoniker": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Cursos\\Blazor-inventory-SSR\\Business\\ICRUDServices.cs",
+              "RelativeDocumentMoniker": "Business\\ICRUDServices.cs",
+              "ToolTip": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Cursos\\Blazor-inventory-SSR\\Business\\ICRUDServices.cs",
+              "RelativeToolTip": "Business\\ICRUDServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T07:30:20.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "B_InputOutput.cs",
+              "DocumentMoniker": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Cursos\\Blazor-inventory-SSR\\Business\\B_InputOutput.cs",
+              "RelativeDocumentMoniker": "Business\\B_InputOutput.cs",
+              "ToolTip": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Cursos\\Blazor-inventory-SSR\\Business\\B_InputOutput.cs",
+              "RelativeToolTip": "Business\\B_InputOutput.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAACMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T07:14:25.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "B_Storage.cs",
+              "DocumentMoniker": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Cursos\\Blazor-inventory-SSR\\Business\\B_Storage.cs",
+              "RelativeDocumentMoniker": "Business\\B_Storage.cs",
+              "ToolTip": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Cursos\\Blazor-inventory-SSR\\Business\\B_Storage.cs",
+              "RelativeToolTip": "Business\\B_Storage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T07:13:24.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "B_Warehouse.cs",
+              "DocumentMoniker": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Cursos\\Blazor-inventory-SSR\\Business\\B_Warehouse.cs",
+              "RelativeDocumentMoniker": "Business\\B_Warehouse.cs",
+              "ToolTip": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Cursos\\Blazor-inventory-SSR\\Business\\B_Warehouse.cs",
+              "RelativeToolTip": "Business\\B_Warehouse.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T07:13:13.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "B_Product.cs",
+              "DocumentMoniker": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Cursos\\Blazor-inventory-SSR\\Business\\B_Product.cs",
+              "RelativeDocumentMoniker": "Business\\B_Product.cs",
+              "ToolTip": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Cursos\\Blazor-inventory-SSR\\Business\\B_Product.cs",
+              "RelativeToolTip": "Business\\B_Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T07:12:48.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "B_Category.cs",
+              "DocumentMoniker": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Cursos\\Blazor-inventory-SSR\\Business\\B_Category.cs",
+              "RelativeDocumentMoniker": "Business\\B_Category.cs",
+              "ToolTip": "C:\\Users\\esteb\\OneDrive\\Escritorio\\Cursos\\Blazor-inventory-SSR\\Business\\B_Category.cs",
+              "RelativeToolTip": "Business\\B_Category.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T07:11:51.608Z",
+              "EditorCaption": ""
             }
           ]
         }

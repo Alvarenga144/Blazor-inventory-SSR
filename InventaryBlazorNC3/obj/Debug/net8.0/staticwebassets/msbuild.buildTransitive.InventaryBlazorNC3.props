@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\InventaryBlazorNC3.props" />
-</Project>

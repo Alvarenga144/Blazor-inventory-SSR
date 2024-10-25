@@ -5,9 +5,11 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InventaryBlazorNC3", "InventaryBlazorNC3\InventaryBlazorNC3.csproj", "{F9617A17-D777-4BFD-BA9C-B44D4FBB55BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{580C003E-9D80-4171-96E7-52D46B3D8E03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entities.csproj", "{580C003E-9D80-4171-96E7-52D46B3D8E03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{D58E0B5B-C766-41DD-898A-F084E0A376A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "DataAccess\DataAccess.csproj", "{D58E0B5B-C766-41DD-898A-F084E0A376A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{F8091A7C-81A4-42E1-9024-5D5236428D2D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{D58E0B5B-C766-41DD-898A-F084E0A376A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D58E0B5B-C766-41DD-898A-F084E0A376A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D58E0B5B-C766-41DD-898A-F084E0A376A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8091A7C-81A4-42E1-9024-5D5236428D2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8091A7C-81A4-42E1-9024-5D5236428D2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8091A7C-81A4-42E1-9024-5D5236428D2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8091A7C-81A4-42E1-9024-5D5236428D2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
